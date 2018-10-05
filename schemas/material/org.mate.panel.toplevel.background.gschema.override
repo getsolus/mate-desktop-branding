@@ -1,4 +1,4 @@
 [org.mate.panel.toplevel.background]
 type='color'
-color='#13191C'
+color='rgba(19,25,28,0.92)'
 opacity=60292
