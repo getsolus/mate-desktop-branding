@@ -12,6 +12,7 @@ mate_schemas = [
     'org.mate.NotificationDaemon.gschema.override',
     'org.mate.power-manager.gschema.override',
     'com.solus-project.brisk-menu.gschema.override',
+    'org.mate.SettingsDaemon.plugins.media-keys.gschema.override',
     'x.dm.slick-greeter.gschema.override',
 ]
 
