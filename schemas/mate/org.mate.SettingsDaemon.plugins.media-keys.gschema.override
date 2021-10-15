@@ -1,0 +1,2 @@
+[org.mate.SettingsDaemon.plugins.media-keys]
+screenreader='<Alt><Mod4>s'
