@@ -3,8 +3,6 @@ lightdm_dir = join_paths(path_datadir, 'lightdm', 'lightdm.conf.d')
 
 gtk_files = [
     '20_mate_default.conf',
-    '30_mate_material.conf',
-    '40_mate_fortitude.conf',
 ]
 
 install_data(
