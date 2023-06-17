@@ -1,5 +1,6 @@
 livecd_schemas = [
     'org.mate.caja.desktop.gschema.override',
+    'org.mate.screensaver.gschema.override',
     'com.solus-project.software-center.gschema.override',
 ]
 
