@@ -39,3 +39,8 @@ report = [
 
 # Output some stuff to validate the build config
 message('\n\n\n' + '\n'.join(report) + '\n\n')
+
+install_data(
+    'mate-mimeapps.list',
+    install_dir: join_paths(path_datadir, 'applications')
+)
